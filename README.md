@@ -1,13 +1,7 @@
 ### About Me :
 
-I am a Tunisian Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; <a href="[your-linkedin-URL](https://www.linkedin.com/in/souhail-ben-brik/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+I am a highly motivated and talented full stack developer engineer who is currently pursuing my studies with dedication and enthusiasm. My passion for technology is evident in my work,
+and my ability to seamlessly integrate different programming languages and tools to build innovative and functional applications is truly impressive.
 
 ---
 ### 🔥 &nbsp; My Stats :
