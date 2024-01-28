@@ -1,24 +1,18 @@
-
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
-<p align="center">
-<div id="badges" align="center">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/souhail-ben-brik/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-</p>
-
-
 ### About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Tunisian Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
+- 📫 How to reach me: &nbsp; <a href="[your-linkedin-URL](https://www.linkedin.com/in/souhail-ben-brik/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 ---
+### 🔥 &nbsp; My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com?user=SOUHAILBENBRIK&theme=transparent&hide_border=true&exclude_days=Sun)](https://git.io/streak-stats)
+----
 
 ### 🛠 &nbsp;Languages and Tools :
 
@@ -43,8 +37,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=SOUHAILBENBRIK&theme=transparent&hide_border=true&exclude_days=Sun)](https://git.io/streak-stats)
+
 
 
 
