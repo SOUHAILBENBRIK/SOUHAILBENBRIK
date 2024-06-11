@@ -6,7 +6,7 @@ I'm thrilled to have you here. As you explore my profile, you'll discover my jou
 
 I pride myself on my proficiency in Agile methodologies and effective teamwork, honed through 2 years of freelance experience. I am a passionate learner, always eager to embrace new challenges and contribute to innovative projects.
 This my Portfolio
-[Link Text](https://flowcv.me/souhailbenbrik)
+[PORTFOLIO](https://flowcv.me/souhailbenbrik)
 
 ---
 ### 🔥 &nbsp; My Stats :
