@@ -2,7 +2,7 @@
 
 Welcome to My Profile!👋👋
 
-I'm thrilled to have you here. As you explore my profile, you'll discover my journey as an Engineering Student and Full-stack Developer & Flutter Trainer. With years of experience in mobile and web application development, I specialize in Flutter, MERN stack, and Spring Boot. My expertise extends to web scraping and DevOps, ensuring robust and efficient solutions.
+I'm thrilled to have you here. As you explore my profile, you'll discover my journey as an Engineering Student and Full-stack Developer & Flutter Trainer. With years of experience in mobile and web application development, I specialize in Flutter, MERN stack. My expertise extends to web scraping and DevOps, ensuring robust and efficient solutions.
 
 I pride myself on my proficiency in Agile methodologies and effective teamwork, honed through 2 years of freelance experience. I am a passionate learner, always eager to embrace new challenges and contribute to innovative projects.
 This my Portfolio
