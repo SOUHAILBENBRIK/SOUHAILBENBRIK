@@ -9,7 +9,7 @@ I pride myself on my proficiency in Agile methodologies and effective teamwork, 
 
 ---
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SOUHAILBENBRIK)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SOUHAILBENBRIK&theme=dracula&border_radius=10&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ----
 
