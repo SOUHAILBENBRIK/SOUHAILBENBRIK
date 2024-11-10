@@ -6,6 +6,7 @@ I'm thrilled to have you here. As you explore my profile, you'll discover my jou
 
 I pride myself on my proficiency in Agile methodologies and effective teamwork, honed through 2 years of freelance experience. I am a passionate learner, always eager to embrace new challenges and contribute to innovative projects.
 
+
 ---
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=SOUHAILBENBRIK&theme=transparent&hide_border=true&exclude_days=Sun)](https://git.io/streak-stats)
