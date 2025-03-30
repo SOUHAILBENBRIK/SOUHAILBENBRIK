@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a problem-solver who thrives on turning ideas into reality. Whether it’s breaking down challenges or building impactful solutions, I bring adaptability, creativity, and a constant drive to learn.<br><br>Beyond development, I share insights on my YouTube channel and post weekly dev content on Instagram and TikTok. When I’m not coding, you’ll find me watching anime. 🚀🎌
+🚀 Full Stack Dev | DevOps Enthusiast<br>💻 Building apps, automating workflows<br>🎥 Sharing tech & coding insights<br>📍 Tunisia
 
 
 ## 🌐 Socials:
