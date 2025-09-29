@@ -1,6 +1,8 @@
 # 💫 About Me:
 🚀 Full Stack Developer | Java & Spring Boot<br>🛠️ DevOps Advocate | CI/CD, Docker, Kubernetes & Cloud<br>💻 Automating workflows & building scalable apps<br>🎥 Sharing code, tips & tech hacks<br>📍 Tunisia
 
+![Profile Views](https://komarev.com/ghpvc/?username=SOUHAILBENBRIK&color=blue)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/souhail-ben-brik/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@benbriksouhail43) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codegleam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:benbriksouhail43@gmail.com) 
@@ -13,6 +15,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SOUHAILBENBRIK&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SOUHAILBENBRIK&icon=0&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
